@@ -30,7 +30,7 @@ public class SelectCharacterAdapter extends BaseAdapter implements View.OnClickL
 
     @Override
     public int getCount() {
-        return 1;
+        return 2;
     }
 
     @Override
