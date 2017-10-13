@@ -31,3 +31,5 @@
    * 編輯模式 遊戲模式
    * 備註欄 以便加註遊戲線索以及其他資料
    
+   資料表
+   https://docs.google.com/spreadsheets/d/1DHQ-HKD1rTuZx9QCihfgqKf5hcgKVEOJ6428In0fImM/edit#gid=0
